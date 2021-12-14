@@ -1,0 +1,19 @@
+{
+  "name": "expensify-bank-fees",
+  "version": "1.0.0",
+  "description": "Generate a description for Expensify bank fees",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluefuton",
+  "license": "ISC",
+  "bin": {
+    "expensify-bank-fees": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "prompt": "^1.2.0"
+  },
+  "type": "module"
+}
