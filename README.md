@@ -19,4 +19,4 @@ You will be prompted for a report title (e.g. "April expenses"), the expensed am
 
 The script will generate a description you can use on your Expensify report, and tell you how much to expense.
 
-<img width="558" alt="Screenshot 2023-04-12 at 12 08 31 PM" src="https://user-images.githubusercontent.com/17325/231314943-55b0c95f-665e-433a-85fa-c58768ea8e6d.png">
+<img width="491" alt="Screenshot 2023-04-12 at 12 18 05 PM" src="https://user-images.githubusercontent.com/17325/231315699-26b17cc2-ceca-4885-83e4-60b201f0fc6c.png">
